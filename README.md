@@ -39,6 +39,9 @@ TWILIO_ACCOUNT_SID=your_account_sid
 TWILIO_AUTH_TOKEN=your_auth_token
 TWILIO_PHONE_NUMBER=+1234567890
 
+#Tavily API
+TAVILY_API_KEY= your_tavily_api_key
+
 # LangSmith (for tracing)
 LANGCHAIN_API_KEY=your_langsmith_api_key
 LANGCHAIN_PROJECT=your_project_name
